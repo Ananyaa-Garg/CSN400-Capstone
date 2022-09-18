@@ -12,21 +12,27 @@ _to be completed_
 
 
 ### Network Topology
+_to be completed_
 
 
 ### Single Line Code Snippet
+_to be completed_
 
 
 ### Bash Script
+_to be completed_
 
 
 ### json object
+_to be completed_
 
 
 ### Sample Tables
+_to be completed_
 
 
 ### Sample Hyperlinks
+_to be completed_
 
 
 
