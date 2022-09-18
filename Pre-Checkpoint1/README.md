@@ -12,7 +12,7 @@ _to be completed_
 
 
 ### Network Topology
-_to be completed_
+_to be complete
 
 
 ### Single Line Code Snippet
