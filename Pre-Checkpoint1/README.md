@@ -12,7 +12,9 @@ _to be completed_
 
 
 ### Network Topology
-_to be complete
+<img src="../checkpoint-diagram.png"
+     alt="Network topology image not found"
+     style="float; left; margin-right: 10px;" />
 
 
 ### Single Line Code Snippet
