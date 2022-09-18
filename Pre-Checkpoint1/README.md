@@ -8,8 +8,8 @@
 
 
 ## Table of Contents
-_to be completed_
-
+1. -[Network Topology](#network topology)
+2. -[Single Line Code Snippet](#single-line-code-snippet)
 
 ### Network Topology
 <img src="../checkpoint1-diagram.png"
