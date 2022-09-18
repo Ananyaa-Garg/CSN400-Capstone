@@ -22,8 +22,12 @@ _to be completed_
 
 
 ### Bash Script
-
-
+'''
+#!/bin/bash
+for (( i=1; i<=6; i++ )); do
+     echo "This is loop: $i"
+done
+'''
 
 ### json object
 _to be completed_
