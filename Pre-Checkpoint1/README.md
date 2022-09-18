@@ -18,11 +18,11 @@ _to be completed_
 
 
 ### Single Line Code Snippet
-_to be completed_
+`echo "Hello World"`
 
 
 ### Bash Script
-```
+```bash
 #!/bin/bash
 for (( i=1; i<=6; i++ )); do
      echo "This is loop: $i"
