@@ -8,8 +8,12 @@
 
 
 ## Table of Contents
-- [Network Topology](#network-topology)
-- [Single Line Code Snippet](#single-line-code-snippet)
+- [NETWORK TOPOLOGY](#network-topology)
+- [SINGLE LINE CODE SNIPPET](#single-line-code-snippet)
+- [MULTI LINE CODE SNIPPET](#multi-line-code-snippet)
+- [SAMPLE JASON OBJECT](#sample-jason-object)
+- [SAMPLE TABLES](#sample-tables)
+- [SAMPLE HYPERLINKS](#sample-hyperlinks)
 
 ### Network Topology
 <img src="../checkpoint1-diagram.png"
@@ -30,7 +34,33 @@ done
 ```
 
 ### json object
-_to be completed_
+...
+{
+"company": "Nudestix"
+"companycontacts" : {
+  "phone": "647-231-8400",
+  "email": "kkaur491@nudestix.com"
+ },
+ "employees" : [
+ {
+   "employee_id": 440,
+   "name": "Jasjot",
+   "contacts": [
+       "manvir@nudestix.com" ,
+       "jasman@nudestix.com"
+       ]
+     },
+   {
+   "employee_id": 350,
+   "name":"Kiran",
+   "contacts": null
+   }
+  ]
+ }
+   
+   
+   ]
+  
 
 
 ### Sample Tables
