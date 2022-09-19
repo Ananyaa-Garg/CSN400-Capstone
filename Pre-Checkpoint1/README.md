@@ -62,7 +62,13 @@ done
 
 
 ### Sample Tables
-_to be completed_
+**EmployeeID** | **Name** | **Gender** | **Salary**
+--- | --- | --- | ---
+101 | Suraj | Male | 10000
+102 | Mani | Male | 20000
+103 | Kiran | Female | 25000
+104 | Mansi | Female | 26000
+
 
 
 ### Sample Hyperlinks
