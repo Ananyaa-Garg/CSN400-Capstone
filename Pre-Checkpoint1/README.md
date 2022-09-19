@@ -34,7 +34,7 @@ done
 ```
 
 ### json object
-...
+```json
 {
 "company": "Nudestix"
 "companycontacts" : {
@@ -57,9 +57,7 @@ done
    }
   ]
  }
-   
-   
-   ]
+ ```
   
 
 
