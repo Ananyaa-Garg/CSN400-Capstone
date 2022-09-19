@@ -22,14 +22,14 @@
 
 
 ### Single Line Code Snippet
-`echo "Hello World"`
+`echo "Hello Everyone , My name is Kiranpreet Kaur"`
 
 
 ### Bash Script
 ```bash
 #!/bin/bash
-for (( i=1; i<=6; i++ )); do
-     echo "This is loop: $i"
+for (( i=99; i>=1; i-- )); do
+     echo "This is the loop: $i"
 done
 ```
 
@@ -72,7 +72,7 @@ done
 
 
 ### Sample Hyperlinks
-_to be completed_
+[kirankaur21112001@gmail.com](https://www.linkedin.com/feed/?trk=onboarding-landing)
 
 
 
